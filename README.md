@@ -11,13 +11,19 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
 <img alt="React" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  </p>
+  <p>
 <img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+</p>
+<p>
 <img alt="React" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+</p>
+<p>
 <img alt="React" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
 </p>
 
