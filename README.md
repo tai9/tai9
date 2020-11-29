@@ -1,6 +1,6 @@
 ### Hi there and welcome to my Github page 👋
 
-My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things, and some of them you may even find interesting.
+My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things, and some of them you may even find interesting. 🤞🤞
 
 ---
 
