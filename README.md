@@ -21,9 +21,9 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
 <p>
 <img alt="React" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
 <p>
+  <img alt="React" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
 </p>
 
