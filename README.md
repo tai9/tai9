@@ -7,9 +7,6 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
 ### What do I do?
 
 <p>
-<img alt="React" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   </p>
   <p>
 <img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
