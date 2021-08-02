@@ -12,10 +12,15 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
 <img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />\
 <img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+</p>
+<p>
+<img alt="Go" src="https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3278C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </p>
 <p>
 <img alt="React" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
+ <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 <p>
 <img alt="React" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
@@ -28,6 +33,12 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
 ### Send me a message!
 
 <p>
+   <a href="https://www.linkedin.com/in/tantai95/">
+  <img
+    alt="linkedin"
+    src="https://img.shields.io/badge/Linkedin-0966C2?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
   <a href="https://www.facebook.com/tantai.it.95">
   <img
     alt="Facebook"
