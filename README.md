@@ -61,6 +61,12 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
 
 ### Github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tai9&show_icons=true&theme=tokyonight)](https://github.com/tai9/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tai9&show_icons=true&theme=tokyonight)](https://github.com/tai9/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tai9&layout=compact&theme=merko)](https://github.com/tai9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tai9&layout=compact&theme=merko)](https://github.com/tai9/)
+<a href="https://github.com/tai9/">
+  
+<img align="left" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+</a>
+
