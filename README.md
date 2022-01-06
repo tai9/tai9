@@ -19,7 +19,6 @@ My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things,
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3278C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </p>
 <p>
-<img alt="React" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 <p>
