@@ -1,31 +1,17 @@
 ### Hi there and welcome to my Github page 👋
 
-My name is Tan Tai and I am a web developer from Viet Nam. I do a lot of things, and some of them you may even find interesting. 🤞🤞
+I'm Tailor, Frontend Blockchain Engineer.
+
+Professionally connected with the web development industry.
+
+Problem solver, well-organised person, loyal employee with high attention to detail. Fan of Football, Badminton, outdoor activities and coding of course.
+
+Interested in the entire frontend spectrum and working on ambitious projects with interesting people.
+
+Let's see my portfolio: https://www.tailornguyen.com/
 
 ---
 
-### What do I do?
-
-<p>
-  </p>
-  <p>
-<img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />\
-<img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-</p>
-<p>
-<img alt="Go" src="https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3278C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-</p>
-<p>
- <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-
----
-
-- I'm currently working on Plusteam.
 
 ### Send me a message!
 
